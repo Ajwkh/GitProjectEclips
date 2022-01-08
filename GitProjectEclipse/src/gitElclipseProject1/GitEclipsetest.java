@@ -9,5 +9,12 @@ public class GitEclipsetest {
 	//this is the second change
 	}
 	//this is a change from the repo
-        // this is the second repo change
+ 
+	// this is the second repo change
+
+public void methoodA() {
+}
+
+
+
 }
